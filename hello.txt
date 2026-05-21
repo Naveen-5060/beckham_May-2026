@@ -1,2 +1,0 @@
-HI hello for a STAGE run
-HI hello for a PROD run
